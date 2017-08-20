@@ -1,0 +1,11 @@
+{
+  "name": "gruntogreniyorum",
+  "version": "1.0.0",
+  "author": "Emre Demir",
+  "description": "Grunt, rutin islerimizi kolaylıkla yapabilmemize yardımcı oluyor.",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
